@@ -1,0 +1,8 @@
+body{
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  justify-content: center;
+  padding: 20px;
+  font-family: "Hanken Grotesk", Arial, Helvetica, sans-serif;
+}
